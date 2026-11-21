@@ -1,0 +1,21 @@
+production_date,line_id,shift,planned_units,produced_units,rejected_units,downtime_minutes,downtime_reason
+2026-11-01,Line_A,Morning,1000,920,18,35,Material shortage
+2026-11-01,Line_A,Night,1000,950,12,20,None
+2026-11-01,Line_B,Morning,1200,1080,25,45,Machine breakdown
+2026-11-01,Line_B,Night,1200,1150,15,25,None
+2026-11-02,Line_A,Morning,1000,960,10,15,None
+2026-11-02,Line_A,Night,1000,870,30,60,Machine breakdown
+2026-11-02,Line_B,Morning,1200,1120,20,30,Material shortage
+2026-11-02,Line_B,Night,1200,1180,8,10,None
+2026-11-03,Line_A,Morning,1000,940,14,25,None
+2026-11-03,Line_A,Night,1000,900,22,40,Changeover
+2026-11-03,Line_B,Morning,1200,1050,35,55,Machine breakdown
+2026-11-03,Line_B,Night,1200,1160,12,20,None
+2026-11-04,Line_A,Morning,1000,980,8,10,None
+2026-11-04,Line_A,Night,1000,920,18,30,Changeover
+2026-11-04,Line_B,Morning,1200,1140,18,20,None
+2026-11-04,Line_B,Night,1200,1090,28,50,Material shortage
+2026-11-05,Line_A,Morning,1000,890,25,50,Machine breakdown
+2026-11-05,Line_A,Night,1000,970,10,15,None
+2026-11-05,Line_B,Morning,1200,1170,10,15,None
+2026-11-05,Line_B,Night,1200,1120,20,35,Changeover
